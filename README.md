@@ -1,0 +1,1 @@
+# stopmpjs-ext-quarkus
